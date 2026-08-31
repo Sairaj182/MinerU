@@ -1,0 +1,3 @@
+"""
+Eduteria Content Index Generator
+"""
